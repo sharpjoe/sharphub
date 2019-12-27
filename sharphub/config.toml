@@ -1,8 +1,9 @@
-baseURL = "http://sharpjoe.github.io/sharphub/"
+baseURL = "https://sharpjoe.github.io/sharphub/"
 languageCode = "en-us"
 title = "Joe Sharp"
 theme = "binario"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
+relativeUrls = true
 
 [Author] # Used in authorbox
   name = "Joe Sharp"

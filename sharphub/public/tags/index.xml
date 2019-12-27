@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Joe Sharp</title>
-    <link>http://sharpjoe.github.io/sharphub/tags/</link>
+    <link>https://sharpjoe.github.io/sharphub/tags/</link>
     <description>Recent content in Tags on Joe Sharp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Dec 2019 09:55:20 -0500</lastBuildDate>
     
-	<atom:link href="http://sharpjoe.github.io/sharphub/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sharpjoe.github.io/sharphub/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>mushroom</title>
-      <link>http://sharpjoe.github.io/sharphub/tags/mushroom/</link>
+      <link>https://sharpjoe.github.io/sharphub/tags/mushroom/</link>
       <pubDate>Fri, 27 Dec 2019 09:55:20 -0500</pubDate>
       
-      <guid>http://sharpjoe.github.io/sharphub/tags/mushroom/</guid>
+      <guid>https://sharpjoe.github.io/sharphub/tags/mushroom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>truffleoil</title>
-      <link>http://sharpjoe.github.io/sharphub/tags/truffleoil/</link>
+      <link>https://sharpjoe.github.io/sharphub/tags/truffleoil/</link>
       <pubDate>Fri, 27 Dec 2019 09:55:20 -0500</pubDate>
       
-      <guid>http://sharpjoe.github.io/sharphub/tags/truffleoil/</guid>
+      <guid>https://sharpjoe.github.io/sharphub/tags/truffleoil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vegetablestock</title>
-      <link>http://sharpjoe.github.io/sharphub/tags/vegetablestock/</link>
+      <link>https://sharpjoe.github.io/sharphub/tags/vegetablestock/</link>
       <pubDate>Fri, 27 Dec 2019 09:55:20 -0500</pubDate>
       
-      <guid>http://sharpjoe.github.io/sharphub/tags/vegetablestock/</guid>
+      <guid>https://sharpjoe.github.io/sharphub/tags/vegetablestock/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vegetarian</title>
-      <link>http://sharpjoe.github.io/sharphub/tags/vegetarian/</link>
+      <link>https://sharpjoe.github.io/sharphub/tags/vegetarian/</link>
       <pubDate>Fri, 27 Dec 2019 09:55:20 -0500</pubDate>
       
-      <guid>http://sharpjoe.github.io/sharphub/tags/vegetarian/</guid>
+      <guid>https://sharpjoe.github.io/sharphub/tags/vegetarian/</guid>
       <description></description>
     </item>
     
