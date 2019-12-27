@@ -1,3 +1,79 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "binario"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+
+[Author] # Used in authorbox
+  name = "Joe Sharp"
+  bio = "Joe Sharp is an experienced software development leader with experience at all levels of organizations from startup to behemoth and a devoted father and husband who is an avid fan of cooking, hockey and puns."
+  avatar = "img/octopus.png"
+
+[Params]
+  description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description
+  copyright = "Joseph Sharp" # Copyright holder, otherwise will use .Site.Title
+  opengraph = true # Enable OpenGraph if true
+  twitter_cards = true # Enable Twitter Cards if true
+  columns = 2 # Set the number of cards columns. Possible values: 1, 2, 3
+  mainSections = ["post", "recipes", "lifelessons"] # Set main page sections
+  post_meta = ["date", "categories"] # Enable post meta fields in given order
+  dateFormat = "January 02, 2006" # Change the format of dates
+  colorTheme = "" # dark-green, dark-blue, dark-red, dark-violet
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
+  mainMenuAlignment = "right" # Align main menu (desktop version) to the right side
+  authorbox = true # Show authorbox at bottom of single pages if true
+  toc = true # Enable Table of Contents for all site pages
+  tocOpen = true # Open Table of Contents block. Optional
+  comments = true # Enable comments for all site pages
+  related = true # Enable Related content for single pages
+  relatedMax = 5 # Set the maximum number of posts that can be displayed in related block. Optional
+  mathjax = true # Enable MathJax for all site pages
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path. Optional
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config. Optional
+  hideNoPostsWarning = false # Don't show no posts empty state warning in main page, if true
+
+[Params.Featured]
+  previewOnly = false # Show only preview featured image
+
+[Params.Breadcrumb]
+  enable = true # Enable breadcrumb block globally
+  homeText = "Joe Sharp" # Home node text
+
+[Params.Social]
+  email = "sharpjoe@live.com"
+  facebook = "joesharpjoe"
+  twitter = "sharpjoe42"
+  instagram = "sharpjoe42"
+  pinterest = "joes2960"
+  linkedin = "sharpjoe"
+  github = "sharpjoe"
+  stackoverflow = "955224"
+
+[Params.Share] # Post Share block
+  facebook = true
+  pinterest = true
+
+# Web App Manifest settings
+# https://www.w3.org/TR/appmanifest/
+# https://developers.google.com/web/fundamentals/web-app-manifest/
+[Params.Manifest]
+  name = "Joe Sharp"
+  shortName = "Joe Sharp"
+  display = "browser"
+  startUrl = "/"
+  backgroundColor = "#2a2a2a"
+  themeColor = "#1b1b1b"
+  description = "Responsive card-based & code-light Hugo theme"
+  orientation = "portrait"
+  scope = "/"
+
+[outputFormats]
+  [outputFormats.MANIFEST]
+    mediaType = "application/json"
+    baseName = "manifest"
+    isPlainText = true
+    notAlternative = true
+
+[outputs]
+  home = ["HTML", "RSS", "MANIFEST"]
