@@ -6,9 +6,46 @@
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 27 Dec 2019 09:55:20 -0500</lastBuildDate>
     
 	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>mushroom</title>
+      <link>http://example.org/tags/mushroom/</link>
+      <pubDate>Fri, 27 Dec 2019 09:55:20 -0500</pubDate>
+      
+      <guid>http://example.org/tags/mushroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>truffleoil</title>
+      <link>http://example.org/tags/truffleoil/</link>
+      <pubDate>Fri, 27 Dec 2019 09:55:20 -0500</pubDate>
+      
+      <guid>http://example.org/tags/truffleoil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegetablestock</title>
+      <link>http://example.org/tags/vegetablestock/</link>
+      <pubDate>Fri, 27 Dec 2019 09:55:20 -0500</pubDate>
+      
+      <guid>http://example.org/tags/vegetablestock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegetarian</title>
+      <link>http://example.org/tags/vegetarian/</link>
+      <pubDate>Fri, 27 Dec 2019 09:55:20 -0500</pubDate>
+      
+      <guid>http://example.org/tags/vegetarian/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
