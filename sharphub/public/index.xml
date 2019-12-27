@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Dec 2019 09:55:20 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wild Mushroom Soup</title>
+      <link>http://example.org/recipes/wild-mushroom-soup/</link>
+      <pubDate>Fri, 27 Dec 2019 09:55:20 -0500</pubDate>
+      
+      <guid>http://example.org/recipes/wild-mushroom-soup/</guid>
+      <description>Adapted from a dish served on Royal Caribbean Cruise ships in their steakhouse. Wild Mushroom SoupIngrediants* 1/4# Unsalted Butter* 1/2C Olive Oil* 1# Yellow Medium Onion (finely chopped)* 1/8# peeled Garlic (minced)* 3# Mushroom mixed Button,Crimini&amp;amp;Portobello (puree)* Mushroom Base (follow directions to make 1qt)* 3/4qt Vegetable Stock* Salt, Pepper* 1/2C Cooking Sherry* 1pt Whipping Cream* 1/2C Beurre Manie-Flour (blend flour and more butter to make a roux)Garnish with:* Scallions (chopped)* Enoki Mushroom (sliced thin)* White Truffle Oil (a few drops on top)Instructions1.</description>
+    </item>
+    
+  </channel>
+</rss>
