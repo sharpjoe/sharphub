@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://sharpjoe.github.io/sharphub/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Joe Sharp"
 theme = "binario"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 
